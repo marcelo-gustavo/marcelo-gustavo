@@ -16,5 +16,5 @@ Atualmente, estou aprofundando meus conhecimentos em **Análise de Dados** e exp
 Meu objetivo é continuar aprimorando minhas habilidades, contribuir para projetos colaborativos e expandir meus conhecimentos em ciência de dados e desenvolvimento.
 
 ## 📫 Vamos nos conectar!
-- **LinkedIn:** [Seu Perfil](#)
-- **GitHub:** [@seuusername](#)
+- **LinkedIn:** linkedin.com/in/marcelo-gustavo-leal(#)
+
